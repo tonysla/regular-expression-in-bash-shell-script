@@ -1,3 +1,3 @@
 # regular-expression-with-bash-script
-Extracting data using regular expression in bash script
-Regular expression can be used to also extract data. 
+
+Regular expression can be also used to extract data. The script file contains all the code necessary to extract data from a web page. 
