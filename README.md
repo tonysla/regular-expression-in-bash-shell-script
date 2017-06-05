@@ -6,4 +6,4 @@ Regular expression can also be used to extract data. The script file contains a 
 
       curl 
  
- The `curl` command is used to retrive URL's, and then saves it as a text file to be used later to fetch the data.
+ The `curl` command is used to retrive URL's, and html tags. Then you can save it as a text file to be used later to fetch the data.
