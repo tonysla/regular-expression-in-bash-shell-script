@@ -4,6 +4,7 @@ Regular expression can also be used to extract data. The script file `regex_bash
 
 # Commands used
 
-      curl 
+      curl  
+      egrep
  
  The `curl` command is used to retrive URL's, and html tags. Then you can save it as a text file to be used later to fetch the data.
