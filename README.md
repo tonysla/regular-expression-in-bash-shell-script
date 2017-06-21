@@ -16,3 +16,4 @@ Regular expression can also be used to extract data. The script file `regex_bash
  The `egrep` command fetches the part of the data that matches with what is specified inside quotes. Type `egrep --help` on terminal on kali linux and check for more options. On the script I have used `egrep` and `egrep -o`. The `egrep -o` stands for "all that matches".   
  
  
+ ### Readme in progress
