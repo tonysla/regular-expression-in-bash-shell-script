@@ -18,4 +18,4 @@ Regular expression can also be used to extract data. The script file `regex_bash
  3. The `cut` command is used (as the word says) to cut/skip the data from a particular point and keep the rest or a portion of the data. There are several ways of using the `cut` tool, but the most useful I found is the `cut -d` method. The `-d` stands for 'delimited', use `cut --help` in the console for more options. 
  
  
- #### Readme on going
+ #### Readme on progres
