@@ -15,7 +15,9 @@ Regular expression can also be used to extract data. The script file `regex_bash
  
  2. The `egrep` command fetches the part of the data that matches with what is specified inside quotes. Type `egrep --help` on terminal on kali linux and check for more options. On the script I have used `egrep` and `egrep -o`. The `egrep -o` stands for "all that matches".   
  
- 3. The `cut` command is used (as the word says) to cut/skip the data from a particular point and keep the rest or a portion of the data. There are several ways of using the `cut` tool, but the most useful I found is the `cut -d` method. The `-d` stands for 'delimited', use `cut --help` in the console for more options. 
+ 3. The `cut` command is used (as the word says) to cut/skip the data from a particular point and keep the rest or a portion of the data. There are several ways of using the `cut` tool, but the most useful I found is the `cut -d` method. The `-d` stands for 'delimited', use `cut --help` in the console for more options.   
+ 
+ 4. The `sed` command is used to
  
  
  #### Readme on progress
