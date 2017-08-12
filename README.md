@@ -20,4 +20,4 @@ Regular expression can also be used to extract data. The script file `regex_bash
  4. The `sed` command is used to replace parts of the data. It can be anything from white space, upper/lower case letters, numbers, words, symbols etc. First use command `sed` followed by `"s/"` and after the forward slash place the symbol that needs to be replaced, `"sed/A/a/"` and right after place the other symbol that replaces the capital `A`. In case of replacing white space with no white space do the following `sed "s/ //"`.
  
  
- #### Readme on progress
+
